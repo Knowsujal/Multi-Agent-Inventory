@@ -1,0 +1,47 @@
+2025-04-04 17:14:11,380 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-04 23:27:04,357 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-04 23:31:34,220 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-04 23:31:34,221 - PlannerAgent - ERROR - Required columns ('Product ID', 'forecasted_demand') are missing in the CSV.
+2025-04-05 00:20:54,833 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 00:20:54,836 - PlannerAgent - INFO - Forecast for Product 1001: 2024-12-10
+2025-04-05 00:20:54,842 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 00:20:54,842 - PlannerAgent - INFO - Forecast for Product 1001: 2024-12-10
+2025-04-05 00:25:26,089 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 00:25:26,091 - PlannerAgent - ERROR - Forecast value for Product 1001 is NaN or invalid.
+2025-04-05 00:28:01,893 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 00:28:01,894 - PlannerAgent - ERROR - Forecast value for Product 1001 is NaN or invalid.
+2025-04-05 00:44:48,554 - PlannerAgent - ERROR - Required columns {'forecasted_demand', 'Product ID'} are missing in the CSV.
+2025-04-05 01:05:52,436 - PlannerAgent - ERROR - Required columns {'forecasted_demand', 'Product ID'} are missing in the CSV.
+2025-04-05 01:06:56,637 - PlannerAgent - ERROR - Required columns {'forecasted_demand', 'Product ID'} are missing in the CSV.
+2025-04-05 01:10:15,567 - PlannerAgent - ERROR - Required columns {'Product ID', 'forecasted_demand'} are missing in the CSV.
+2025-04-05 01:19:41,899 - PlannerAgent - ERROR - Required columns {'Product ID', 'forecasted_demand'} are missing in the CSV.
+2025-04-05 14:18:24,340 - PlannerAgent - ERROR - Required columns {'forecasted_demand', 'Product ID'} are missing in the CSV.
+2025-04-05 14:18:38,483 - PlannerAgent - ERROR - Required columns {'Product ID', 'forecasted_demand'} are missing in the CSV.
+2025-04-05 14:19:01,709 - PlannerAgent - ERROR - Required columns {'forecasted_demand', 'Product ID'} are missing in the CSV.
+2025-04-05 15:11:54,198 - PlannerAgent - ERROR - Error loading data: [Errno 2] No such file or directory: 'demand_forecasting.csv'
+2025-04-05 15:15:55,841 - PlannerAgent - ERROR - Required columns {'Product ID', 'forecasted_demand'} are missing in the CSV.
+2025-04-05 15:22:55,564 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 15:28:20,283 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 15:32:52,500 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 15:34:11,224 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 17:03:53,605 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 17:22:00,989 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 17:23:48,706 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 17:26:03,780 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 17:30:14,382 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 17:34:47,963 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 17:36:24,538 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 17:39:37,656 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 17:43:21,283 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 17:45:42,958 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 17:59:40,478 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 18:14:54,347 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 19:19:05,691 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 19:19:21,044 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 19:24:10,149 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 19:29:13,365 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 19:49:02,902 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 19:49:06,348 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 21:06:04,874 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-05 21:06:06,366 - PlannerAgent - INFO - Data loaded successfully.
+2025-04-06 13:43:45,625 - PlannerAgent - INFO - Data loaded successfully.
